@@ -1,0 +1,39 @@
+PROOF - A Jornada do Pinguim - LPI - Exercisios
+
+Ex # 1 
+Adicionar um novo usuario com o seu nome
+
+Ex #2 
+Criar uma pasta no diretorio /home/nomedoseusuario com o nome "LPI" e gerar um arquivo de texto com o titulo PROOF_SOC
+
+Ex #3 
+Inserir no arquivo de texto as seguintes linhas 
+
+#!/usr/bin/python
+
+# Übtextoung, um die Verwendung von Texteditoren zu korrtextoigieren
+# Exercicio para fixar o uso de editores de texto
+# Exercise to fix the usage of text editors
+# Упражнение по исправлtextoению использования текстовых редакторов
+# Exercicio para fixar o uso de editores de texto
+# IyBFeGVyY2ljaW8gcGFyYSBmaXhhciBvIHVzbyBkZSBlZGl0b3JlcyBkZSB0ZXh0bw==
+# Rkrepvpvb cnen svtextokne b hfb qr rqvgberf qr grkgb
+
+print ("Linux e muito brabo ");
+
+Ex #4
+Salvar o arquivo e criar uma copia exata dele com as mesmas permissoes usando o nome LPI_bkp
+
+Ex #5
+Remover o primeiro arquivo
+
+Ex #6 
+Ler o arquivo criado e realizar um filtro para identificar quantas vezes a palavra "Texto" aparece
+
+
+#Ex 7 
+Renomear o arquivo LPI_BKP para LPI_xx, sendo xx o numero de vezes que a palavra texto aparece.
+
+#Ex 8 Compactar a pasta toda em .zip 
+
+
