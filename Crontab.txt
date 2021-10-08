@@ -1,0 +1,7 @@
+1° Criar um job para rodar o seguinte comando echo " CRONJOB PORRA " a cada 2 minutos 
+
+2° Criar um job para rodar o seguinte comando echo $(date) >> /home/NOMEDOSEUUSUARIO/doisminuto.txt a cada 10 minutos
+
+3° Criar um job para rodar o seguinte comando sudo apt update meia noite toda sexta feira 
+
+4° Criar um job para rodar o seguinte comando sudo apt update && sudo apt upgrade -y todo final de semana ( Sabado e domingo ) 
